@@ -17,6 +17,25 @@ namespace Calculator
             return a+b;
         }
 
+        //Deklarasi Fungsi penambahan
+        public int Penambahan(int a, int b)
+        {
+            return a+b;
+        }
+
+        //Deklarasi Fungsi penambahan
+        public int Penambahan(int a, int b)
+        {
+            return a+b;
+        }
+
+        //Deklarasi Fungsi penambahan
+        public int Penambahan(int a, int b)
+        {
+            return a+b;
+        }
+
+
     }
 }
 
